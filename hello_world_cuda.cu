@@ -13,3 +13,5 @@ int main()
  return 0;
 }
 
+//This will print "Hello World, I started CUDA" 10 times since we have instantiated 10 threads on Kernel launch parameter <1,10>
+" 10 times since we have instantiated 10 threads on Kernel launch parameter <1,10>
